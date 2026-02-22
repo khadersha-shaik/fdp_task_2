@@ -1,0 +1,63 @@
+install node js 
+
+install postman 
+
+open cmd  
+    type node -v 
+
+    npm install express 
+
+    create a folder 
+
+        open cmd in the folder 
+
+    npm init -y 
+
+    open vscode in the folder 
+
+        create index.js
+
+            write the code 
+
+
+test the urls in postman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
